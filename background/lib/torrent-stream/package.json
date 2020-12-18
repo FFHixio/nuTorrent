@@ -7,7 +7,7 @@
     "test": "tap test/*.js"
   },
   "dependencies": {
-    "bitfield": "^0.1.0",
+    "bitfield": "^0.3.0",
     "bittorrent-dht": "^3.0.0",
     "bittorrent-tracker": "^2.6.0",
     "bncode": "^0.5.2",
