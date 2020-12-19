@@ -63,7 +63,7 @@
     "bootstrap-sass": "^3.3.5",
     "bootstrap-sass-loader": "^1.0.8",
     "debug": "^2.2.0",
-    "electron-debug": "^0.1.1",
+    "electron-debug": "^0.7.0",
     "ipc-promise": "^0.1.1",
     "javascript-state-machine": "^2.3.5",
     "jsonfile": "^2.2.1",
