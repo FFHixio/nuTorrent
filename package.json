@@ -73,7 +73,7 @@
     "object-assign": "^2.1.1",
     "open": "0.0.5",
     "parse-torrent": "^5.3.0",
-    "react": "^0.13.3",
+    "react": "^0.14.10",
     "react-bootstrap": "^0.24.5",
     "react-bootstrap-table": "^0.9.9",
     "react-router": "^0.13.3"
